@@ -1,4 +1,4 @@
-# Introduction (Modules and Packages)
+# Introduction
 
 * Chapter [10](http://python.swaroopch.com/modules.html) and [16](http://python.swaroopch.com/stdlib.html) from [A Byte of Python](http://python.swaroopch.com/index.html)
 * Chapter [10](http://chimera.labs.oreilly.com/books/1230000000393/ch10.html) from the [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
